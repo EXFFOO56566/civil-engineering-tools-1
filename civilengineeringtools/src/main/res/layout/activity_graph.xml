@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:XYchart="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.tochycomputerservices.civilengtools.GraphActivity">
+
+    <com.example.gili.simplegraphlibrary.XYchart
+        android:id="@+id/graph"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        XYchart:gridLineWidth="3dp"
+        XYchart:axisDigitsSize="10dp"
+        XYchart:bottomTitleText="UPDATES WILL ACTIVATE FUNCTIONALITY "
+        XYchart:leftTitleText="Y"
+        XYchart:labelsColor="#d4c0c0"
+        XYchart:backgroundColor="#333131"
+        XYchart:axisDigitsColor="#d4c0c0"
+        XYchart:valueLineColor="#e16826"
+        XYchart:gridLineColor="#e16826"/>
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/civil_engineering_tools.iml" filepath="$PROJECT_DIR$/.idea/modules/civil_engineering_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.iml" filepath="$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/barchart/civil_engineering_tools.barchart.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.iml" filepath="$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.main.iml" filepath="$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/civilengineeringtools/civil_engineering_tools.civilengineeringtools.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simplegraphlibrary/civil_engineering_tools.simplegraphlibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

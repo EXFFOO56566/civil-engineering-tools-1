@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="XYchart">
+        <attr name="gridLineColor" format="reference|color" />
+        <attr name="gridLineWidth" format="reference|dimension" />
+        <attr name="bottomTitleText" format="reference|string" />
+        <attr name="leftTitleText" format="reference|string" />
+        <attr name="gridLinesVertical" format="reference|integer" />
+        <attr name="axisDigitsSize" format="reference|dimension" />
+        <attr name="titlesSize" format="reference|integer" />
+        <attr name="axisDigitsColor" format="reference|color" />
+        <attr name="valueLineColor" format="reference|color" />
+        <attr name="backgroundColor" format="reference|color" />
+        <attr name="labelsColor" format="reference|color" />
+    </declare-styleable>
+</resources>
